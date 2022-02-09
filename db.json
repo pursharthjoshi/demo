@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "id":0,
+    "name": "Pursharth Joshi"
   }
 }
